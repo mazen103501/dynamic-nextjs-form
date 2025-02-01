@@ -2,8 +2,9 @@ import React, { useState } from "react";
 import { useForm, FormProvider } from "react-hook-form";
 import { Button, Container, Typography, Box } from "@mui/material";
 import FormComponent from "./FormComponent";
+import { FormData } from "@/types/form";
 
-const jsonData = {
+const jsonData: FormData = {
   data: [
     {
       id: 1,
