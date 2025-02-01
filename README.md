@@ -21,5 +21,9 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
+change the jsonData varaiable inside the SignupForm.tsx to fully try the Form
+
+
+
 Deployed App [Click here](https://dynamic-nextjs-form.vercel.app/)
 
