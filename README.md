@@ -1,8 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+To start the project locally clone it and in the project directory run
 
-## Getting Started
 
-First, run the development server:
+```bash
+npm install
+```
+
+
+Start the development server:
 
 ```bash
 npm run dev
